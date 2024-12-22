@@ -1,5 +1,5 @@
 # code tinkerer
-I'm a self-taught Django Developer with 2+ years of Experience. I have 1+ years experience in Machine Learning, Data analysis, data visualization.
+I'm a self-taught Django Developer with 5+ years of Experience. I have 1+ years experience in Machine Learning, Data analysis, data visualization.
 I mostly write code in python, JavaScript and jQuery.
 
 ---
